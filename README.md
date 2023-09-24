@@ -107,7 +107,7 @@ git clone https://github.com/CrisDeniz/tasks_api
 *# vá até a pasta do projeto*
 
 ```
-cd tasks.api
+cd tasks_api
 ```
 
 *# execute o projeto*
