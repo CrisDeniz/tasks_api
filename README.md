@@ -98,6 +98,12 @@ No endpoint usuarios existe apenas o metódo GET para exibir um usuario pelo id,
 
 ## 🏃 Como executar o projeto
 
+
+### 📍 Requisitos para execução
+
+- Java 17
+- 
+
 *# clone o repositório*
 
 ```
